@@ -18,17 +18,13 @@ as well as useful (or not) automation scripts  to facilitate my research.
 ### Usage
 
 ```
-.
+playground
 ├── cve
+│   ├── CVE-2022-0847
 │   ├── CVE-2025-32463
-│   │   ├── bipboop.sh
-│   │   └── README.md
 │   └── CVE-2025-66417
-│       ├── cve-2025-66417.py
-│       ├── cve-2025-66417.xml
-│       └── README.md
 ├── LICENSE
-├── README.md
+└── README.md
 ```
 
 Each PoC can be found in the corresponding CVE folder within `cve/`. 

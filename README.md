@@ -9,12 +9,11 @@
  \//        
  . . . . Beemo's Playground
  . . . . Infosec research playground (mostly PoCs)
- . . . . nflatrea <nflatrea@mailo.com>
+ . . . . nflatrea <nflatrea@mailo.com> 
+```
 
 This repository contains proof-of-concept (PoC) exploits for various Common Vulnerabilities and Exposures (CVEs)
 as well as useful (or not) automation scripts  to facilitate my research.
- 
-```
 
 ### Usage
 

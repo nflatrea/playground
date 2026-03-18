@@ -1,15 +1,9 @@
 # playground
 
-```    _       
- __/\\___   
-(_     __)) 
- / ._))//   
-/: ._))\\   
-\  ____//   
- \//        
- . . . . Beemo's Playground
- . . . . Infosec research playground (mostly PoCs)
- . . . . nflatrea <nflatrea@mailo.com> 
+```
+. . . . Beemo's Playground
+. . . . Infosec research playground (mostly PoCs)
+. . . . nflatrea <nflatrea@mailo.com> 
 ```
 
 This repository contains proof-of-concept (PoC) exploits for various Common Vulnerabilities and Exposures (CVEs)

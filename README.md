@@ -1,5 +1,3 @@
-# playground
-
 ```
 . . . Beemo's Playground
 . . . Infosec research playground (mostly PoCs)
